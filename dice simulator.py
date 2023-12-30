@@ -50,7 +50,7 @@ def printthedice(p):
             time.sleep(0.25)
 
 
-print("Welcome to the dice simulator")
+print("Welcome to the dice simulator :-")
 readytoplay = input("Kindly press 1 to roll the dice, 0 to exit the game.\n")
 while int(readytoplay) != 0:
     biasedornot = input("Press 0 for unbiased draw.\nPress any digit from 1 to 6 to make a biased roll of that number.\nKindly enter your choice:\n")

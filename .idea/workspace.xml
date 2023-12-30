@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2ceb1f5-e7b5-4c22-8825-c502c7464f8c" name="Default Changelist" comment="Initial Commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dice simulator.py" beforeDir="false" afterPath="$PROJECT_DIR$/dice simulator.py" afterDir="false" />
-    </list>
+    <list default="true" id="f2ceb1f5-e7b5-4c22-8825-c502c7464f8c" name="Default Changelist" comment="updated Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,11 +73,26 @@
       <option name="project" value="LOCAL" />
       <updated>1703924502464</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updated Commit">
+      <created>1703925264066</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703925264066</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updated Commit">
+      <created>1703925370147</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703925370147</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="updated Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated Commit" />
   </component>
 </project>
