@@ -61,7 +61,7 @@ while int(readytoplay) != 0:
     if int(biasedornot) == 0:
         print(Fore.LIGHTMAGENTA_EX + "\nYou have got a unbiased roll: " + Style.BRIGHT + str(diceout) + Style.NORMAL + Style.RESET_ALL)
     else:
-        print(Fore.LIGHTMAGENTA_EX + "\nYou have gota biased roll with " + str(biasedornot) + ": " + Style.BRIGHT + str(diceout) + Style.NORMAL + Style.RESET_ALL)
+        print(Fore.LIGHTMAGENTA_EX + "\nYou have got a biased roll with " + str(biasedornot) + ": " + Style.BRIGHT + str(diceout) + Style.NORMAL + Style.RESET_ALL)
 
     print("\n")
     readytoplay = input("Kindly press 1 to roll again, 0 to exit the game.\n")
